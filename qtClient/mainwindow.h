@@ -7,7 +7,7 @@
 #include <QHostAddress>
 #include <QDebug>
 #include <QTime>
-#include "../qtMainServer/qtMainServer/globalcfg.h"
+#include "../qtMainServer/globalcfg.h"
 #include <QtSerialPort/QSerialPort>
 #include <QtSerialPort/QSerialPortInfo>
 #include <QSettings>
